@@ -825,3 +825,8 @@ img:hover {
     font-weight: inherit;
   }
 
+.logo{
+    width: 25px;
+    height: 25px;
+    padding: 3px;
+}
